@@ -12,6 +12,10 @@
     "48": "logo-small.png",
     "128": "Logo-small.png"
   },
+  "chrome_url_overrides": {
+    "newtab": "index.html",
+    "default_title": "Your extension title"
+  },
   "content_security_policy": "script-scr 'self' 'sha256-wkEhk1Pm58HZQSzT/oPAcIeUYSsJpEEGo2v2M1aGgTs='; object-src 'self'",
   "permissions": []
 }
